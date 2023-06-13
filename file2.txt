@@ -1,2 +1,4 @@
 this is the 2nd file under the testrepo
-And this is not the actual file.
+And this is not the actual repo.
+we are just going to use this for testing some of 
+the git command taught in VCS class.
