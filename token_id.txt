@@ -7,6 +7,7 @@ L.KN KWH FEKLWHBFLIUHWILC BLJG LI	ERB;	LF
 HCLO IWHKIWHELIUF GQIUF .KEQNF Q;KEF 
 K HFKIWHFLIUWHIUGHFIUQH.F HQ;IOHF	
 nsklfh ioqewuhf levurfiuveqrf lkuehroihqer;lq
+<<<<<<< HEAD
 hj foqh fiuherfiluhafkj heilruluhgklerjv oieadvchj sdvhk vhkjkvs vsdhkvhksdv ckhsdvc
 
 jsvc hjdsvjk sdgcfuj sdgcfu wdguswvducygfwiu cvdcud cfuywevc
@@ -16,3 +17,10 @@ ugf iuguf ygwiufguwgfuywegfuywqgfuygefukygqufcgqebvlqerf
 hjwvyukcyuwvhvwdytcfykwavckyufvckyuqwvechjvqewfuckyverf
 jhwvdcuyvwdcuyvyudetfchkwgevcuydfgukyfbvuekgyiulbvkn
 hgvhcvhcvwhycvshcvyvchgchsvhcgvshc scusdvchsdgvc
+=======
+hj foqh fiuherfiluhafkj heilruluhgklerjv oieahiulbvkn
+nichsihkshcicgiuwdguwgf uwldfgwugf uwfihlwihkugkulkhliwhliuukyghjsfv j
+qhgjhy fwhtdfgvhjBVDJSVFHVFHWFUWVFJHVCHWVCHJWVCHGWVCHWVCHJWVCHJVWSJH
+hvdhgvhgfvwedvjbcjhsvgcjhbvcjhevcjhbvjchveuhcvjeygcuyegcyebuygfuywvchgscvxghacfxhgsvcjh
+jhvhvwcytvwytdcftvcjwhbvcjsbfjl iguwgv wugfukwvfukywegukyd wugdf uywuywu yewu fuwef uwefuywefuywhs
+>>>>>>> branch1
