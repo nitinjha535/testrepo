@@ -1,0 +1,5 @@
+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
+
+
+git log --oneline --> will show all the commits and corresponding hash key
+git reset --hard "previos-commit-hash-key" --> to undo the last merge/commit
